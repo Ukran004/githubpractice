@@ -14,3 +14,4 @@ name="Ukran" #here, name is a variable which stores/holds string type value i.e 
 # And in python string are always inside single or double quotes:
 # for example :"Ukran" or 'Ukran'
  file new
+ hello my name
